@@ -1,9 +1,6 @@
-# predict PM2.5 use linear refression - 資料探勘作業一
+# Image Sensing Pipeline - 電腦視覺作業一
 
 智能系統研究所 蒲品憶 313581038
-
-## 作業連結:
-傳送門: https://www.kaggle.com/competitions/2025-data-mining-hw-1/overview
 
 # report
 
@@ -22,24 +19,7 @@ Install the required packages.
     
 
 
-run: python `script/code6_now.ipynb` -> 子標題
+run: python `script/implementation.ipynb` 
 
-## Create DataSets
-    - train.csv
-    - test.csv
-    子標題: 
-        Read in training set
-        Read in test set
-
-## preprocessing
-    子標題: Preprocess
-
-## select features
-    子標題: 分析圖 
-
-## Training and validation
-    子標題: 
-        Linear Regression Agrad
-        predict valid
-        predict test
-
+## Implementation 
+![pipline.png](assignment/pipline.png)

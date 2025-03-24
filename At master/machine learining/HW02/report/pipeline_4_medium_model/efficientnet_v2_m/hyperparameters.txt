@@ -1,0 +1,4 @@
+Test Name: pipeline_4_medium_model
+Model Name: efficientnet_v2_m
+Epoch: 25
+Learning Rate: 5e-05

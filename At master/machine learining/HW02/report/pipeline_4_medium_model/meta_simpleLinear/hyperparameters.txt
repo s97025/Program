@@ -1,0 +1,4 @@
+Test Name: pipeline_4_medium_model
+Model Name: simpleLinear
+Epoch: 15
+Learning Rate: 0.0001

@@ -1,0 +1,4 @@
+Test Name: pipeline_4_medium_model
+Model Name: convnext_base
+Epoch: 25
+Learning Rate: 5e-05

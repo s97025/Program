@@ -1,0 +1,14 @@
+python.exe -m pip install --upgrade pip
+
+pip3 install pillow opencv-python-headless numpy scikit-learn seaborn tqdm python-dotenv
+
+# 只支援python 3.10以下版本
+# pytorch網站: https://pytorch.org/get-started/locally/
+CPU 相容版本 : pip3 install torch torchvision torchaudio
+CUDA 相容版本: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+
+
+# 補充
+  # 清除 pip 緩存
+  pip cache purge

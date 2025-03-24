@@ -2,11 +2,15 @@
 
 智能系統研究所 蒲品憶 313581038
 
+# assignment
+
+assignment/HW1_題目.pdf
+
 # report
 
 report/report.pdf
 
-## Installation
+# Installation
 
 Install the required packages.
 
@@ -21,5 +25,5 @@ Install the required packages.
 
 run: python `script/implementation.ipynb` 
 
-## Implementation 
+# Implementation 
 ![pipline.png](assignment/pipline.png)

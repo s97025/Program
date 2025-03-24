@@ -1,4 +1,4 @@
-# predict PM2.5 use linear refression - 資料探勘作業一
+# predict PM2.5 use linear regression - 資料探勘作業一
 
 智能系統研究所 蒲品憶 313581038
 

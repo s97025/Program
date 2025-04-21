@@ -1,0 +1,14 @@
+space = {
+    'n_neighbors': hp.choice('n_neighbors', [2, 3, 4, 5, 6, 7, 9, 10, 100]),  # 鄰居數量
+    'metric': hp.choice('metric', ['euclidean']),  # 距離度量方式
+    'leaf_size': hp.choice('leaf_size', [40, 45, 50]),  # 設定葉子大小
+    'algorithm': hp.choice('algorithm', ['auto', 'kd_tree']),  # 計算算法
+    'p': hp.choice('p', [1, 2]),  # 距離計算的 p 值
+}
+
+
+
+test_X.csv
+test_loss: 0.24371299608516764
+
+用所有的training訓練，所以沒有驗證集

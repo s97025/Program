@@ -1,0 +1,18 @@
+# 定義搜尋空間
+space = {
+    'num_layers': hp.choice('num_layers', [2, 3, 4, 5, 6]),  # 層數選擇
+    'units': hp.quniform('units', 32, 256, 32),  # 每層的單元數
+    'learning_rate': hp.loguniform('learning_rate', -9, -2),  # 學習率
+    'epochs': hp.choice('epochs', [100,200, 400, 600, 800, 1000]),  # 訓練輪數
+    'batch_size': hp.choice('batch_size', [32, 64, 128])  # 批次大小
+}
+
+
+Best hyperparameters:  {'batch_size': 32, 'epochs': 800, 'learning_rate': 0.0001709738973253588, 'num_layers': 3, 'units': 128.0}
+Best loss: 0.00025811223683142617
+
+valid_data.csv
+test_loss: 0.0007720983152375925
+
+test_X.csv
+test_loss: 0.0008154261481082128

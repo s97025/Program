@@ -1,4 +1,4 @@
-# Anomaly Detection - 電腦視覺作業二
+# Anomaly Detection - 資料探勘作業二
 
 智能系統研究所 蒲品憶 313581038
 

@@ -3,7 +3,7 @@
 **智能系統研究所 蒲品憶 313581038**
 
 ## 作業連結:
-* 傳送門: https://www.kaggle.com/competitions/zh-tw-reading-comprehension-test-for-ll-ms/data
+* 傳送門: https://www.kaggle.com/competitions/nycu-i-al-i-ml-2024-seq-2-seq-and-attention/overview
 
 ## Installation
 

@@ -1,0 +1,3 @@
+best_model.pth 
+
+自行跑程式碼，模型超過github可以上傳的大小。

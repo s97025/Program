@@ -1,0 +1,18 @@
+M : 中立
+F: 要轉換特徵 feature
+D: 不需要
+user_id                        object - M
+time                   datetime64[ns] - feature V
+clicked_news                   object - M (?)
+news_id                        object - M
+clicked                         int64 - M
+impression_order                int64 - M
+category                       object - feature [One hot] V
+subcategory                    object - feature [One hot] V
+title                          object - feature (用Bert會需要)
+abstract                       object - feature (用Bert會需要)
+URL                            object - D (已經取完wikiID不需要了)
+title_entities                 object - D (已經取完wikiID不需要了)
+abstract_entities              object - D 
+title_entity_ids               object - feature (train_entity_embedding.vec 與 title用法則一)
+abstract_entity_ids            object - feature (train_entity_embedding.vec 與 abstract用法則一)

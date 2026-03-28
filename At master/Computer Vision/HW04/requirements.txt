@@ -1,0 +1,8 @@
+opencv-python
+python-dotenv
+datasets
+Pillow
+evaluate
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install opencv-python python-dotenv Pillow evaluate

@@ -1,0 +1,82 @@
+Test Set Evaluation Summary
+Overall mIoU: 0.7659
+Overall Average PSNR: 22.65 dB
+IoUs per class:
+  - Cushion: 0.2692
+  - Armrest: 0.8751
+  - Leg: 0.8579
+  - Seat Base: 0.9611
+  - Backrest: 0.6513
+  - Background: 0.9809
+
+Per Image Results:
+  File: 0401, mIoU: 0.7954, PSNR: 24.20
+    Cushion IoU: 0.0000
+    Armrest IoU: 0.9430
+    Leg IoU: 0.9283
+    Seat Base IoU: 0.9510
+    Backrest IoU: 0.9635
+    Background IoU: 0.9867
+  File: 0402, mIoU: 0.9804, PSNR: 25.98
+    Cushion IoU: nan
+    Armrest IoU: 0.9737
+    Leg IoU: 0.9769
+    Seat Base IoU: 0.9793
+    Backrest IoU: 0.9873
+    Background IoU: 0.9849
+  File: 0403, mIoU: 0.8839, PSNR: 24.69
+    Cushion IoU: 0.9199
+    Armrest IoU: 0.9804
+    Leg IoU: 0.9723
+    Seat Base IoU: 0.9614
+    Backrest IoU: 0.4835
+    Background IoU: 0.9859
+  File: 0404, mIoU: 0.7419, PSNR: 21.15
+    Cushion IoU: 0.0000
+    Armrest IoU: 0.8897
+    Leg IoU: 0.9589
+    Seat Base IoU: 0.9634
+    Backrest IoU: 0.6500
+    Background IoU: 0.9896
+  File: 0405, mIoU: 0.9556, PSNR: 24.18
+    Cushion IoU: nan
+    Armrest IoU: 0.9422
+    Leg IoU: 0.9505
+    Seat Base IoU: 0.9642
+    Backrest IoU: 0.9395
+    Background IoU: 0.9817
+  File: 0406, mIoU: 0.9708, PSNR: 24.21
+    Cushion IoU: nan
+    Armrest IoU: 0.9709
+    Leg IoU: 0.9490
+    Seat Base IoU: 0.9691
+    Backrest IoU: 0.9835
+    Background IoU: 0.9815
+  File: 0407, mIoU: 0.5290, PSNR: 17.14
+    Cushion IoU: 0.1567
+    Armrest IoU: 0.9854
+    Leg IoU: 0.0000
+    Seat Base IoU: 0.9390
+    Backrest IoU: 0.1490
+    Background IoU: 0.9437
+  File: 0408, mIoU: 0.7287, PSNR: 19.79
+    Cushion IoU: nan
+    Armrest IoU: 0.6322
+    Leg IoU: 0.9597
+    Seat Base IoU: 0.9538
+    Backrest IoU: 0.1123
+    Background IoU: 0.9857
+  File: 0409, mIoU: 0.7317, PSNR: 19.52
+    Cushion IoU: nan
+    Armrest IoU: 0.4969
+    Leg IoU: 0.9312
+    Seat Base IoU: 0.9543
+    Backrest IoU: 0.2936
+    Background IoU: 0.9827
+  File: 0410, mIoU: 0.9603, PSNR: 25.64
+    Cushion IoU: nan
+    Armrest IoU: 0.9363
+    Leg IoU: 0.9525
+    Seat Base IoU: 0.9753
+    Backrest IoU: 0.9504
+    Background IoU: 0.9872
